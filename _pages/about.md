@@ -13,7 +13,6 @@ My Academic Journey
 ------
 
 -📝 My first paper was accepted by Physica Scripta(JCR Q2) 2024.
-
 -💡 Published my first invention patent titled In May 2024.
 
 -🖥️ In July 2024, I submitted my first software copyright application for the “Yunji Qianyi UAV Flight Control Software.”
