@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "zh-CN"
+title                    : "Quanjun Li/ Personal Homepage"
 title_separator          : "-"
 name                     : &name "Quanjun Li"
 description              : &description "Ye shall know the truth and the truth shall make you free"
