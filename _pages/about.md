@@ -34,6 +34,10 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 Project Experiences
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- Published a Chinese invention patent titled "Medical Image Protection Method Based on One Dimensional Chaotic Mapping Verified by Iris Features"
+- Publish a Chinese invention patent titled "Surface Damage and Corrosion Detection Method for Wind Turbines Based on Improved YOLOv8 Model"
+- Published a Chinese invention patent titled "Method for Protecting Remote Sensing Images of Unmanned Aerial Vehicles Based on Two Dimensional Chaotic Mapping Verified by Palmprint Verification"
+- Published the Chinese invention patent "A video encryption method suitable for edge computing devices"
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
