@@ -28,8 +28,8 @@ My Academic Journey
 
 Create content & metadata
 ------
-2016/09-2021/03: Bachelor in Computing Science and Mathematics at University of Alberta
-GPA: 3/4, Relevant Courses: Calculus, Linear Algebra, Statistics, Image Processing, Face Recognition, etc.
+2016/09-present: Bachelor in Computer Science and Technology at Guangdong University of Technology
+Relevant Courses: Principles of Computer Organization, Computer Networks, Artificial Intelligence, Operating Systems, Digital Logic Circuits, etc.
 **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
