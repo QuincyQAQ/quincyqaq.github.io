@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Quanjun Li’s Academic Profile"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,8 +24,8 @@ The main configuration file for the site i
 
 Create content & metadata
 ------
-2023/08-present: PhD in Computer Science at CAS (SIAT) & University of Macau
-Research Area: Computer Vision, Medical Imaging
+2016/09-2021/03: Bachelor in Computing Science and Mathematics at University of Alberta
+GPA: 3/4, Relevant Courses: Calculus, Linear Algebra, Statistics, Image Processing, Face Recognition, etc.
 **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
