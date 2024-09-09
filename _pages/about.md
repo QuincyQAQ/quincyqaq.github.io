@@ -46,4 +46,6 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about my research and projects can be found on my [GitHub profile]([https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator](https://github.com/QuincyQAQ)
+) and my [ORCiD profile]([https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator](https://orcid.org/my-orcid?orcid=0009-0007-5149-242X)
+).
