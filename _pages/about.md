@@ -19,8 +19,10 @@ My Academic Journey
 -🖥️ In July 2024, I submitted my first software copyright application for the “Yunji Qianyi UAV Flight Control Software.”
 
 -🏆 Won three national level awards in the China Collegiate Computing Contest.
+
 Education Background
 ------
+
 2016/09-present: Bachelor in Computer Science and Technology at Guangdong University of Technology
 
 Relevant Courses: Principles of Computer Organization, Computer Networks, Artificial Intelligence, Operating Systems, Digital Logic Circuits, etc.
