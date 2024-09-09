@@ -20,9 +20,12 @@ Getting started
 
 My Academic Journey
 ------
--📝 My first paper was accepted by CONF-SPML 2023.
--💡 Published my first invention patent titled In May 2024
+-📝 My first paper was accepted by Physica Scripta(JCR Q2) 2024.
+
+-💡 Published my first invention patent titled In May 2024.
+
 -🖥️ In July 2024, I submitted my first software copyright application for the “Yunji Qianyi UAV Flight Control Software.”
+
 Create content & metadata
 ------
 2016/09-2021/03: Bachelor in Computing Science and Mathematics at University of Alberta
