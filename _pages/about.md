@@ -11,12 +11,14 @@ This website highlights my academic journey and research contributions. I am cur
 
 My Academic Journey
 ------
+
 -📝 My first paper was accepted by Physica Scripta(JCR Q2) 2024.
 
 -💡 Published my first invention patent titled In May 2024.
 
 -🖥️ In July 2024, I submitted my first software copyright application for the “Yunji Qianyi UAV Flight Control Software.”
 
+-🏆 Won three national level awards in the China Collegiate Computing Contest.
 Education Background
 ------
 2016/09-present: Bachelor in Computer Science and Technology at Guangdong University of Technology
