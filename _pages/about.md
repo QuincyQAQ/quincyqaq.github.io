@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This website highlights my academic journey and research contributions. I am currently pursuing my bachelor's degree at Guangdong University of Technology, with a focus on Computer Vision and Medical Imaging.
+This website highlights my academic journey and research contributions. I am currently pursuing my bachelor's degree at Guangdong University of Technology, with a focus on Computer Vision, Medical Imaging and Edge AI.
 
 My Academic Journey
 ------
@@ -25,7 +25,7 @@ Education Background
 
 Relevant Courses: Principles of Computer Organization, Computer Networks, Artificial Intelligence, Operating Systems, Digital Logic Circuits, etc.
 
-Project Experiences
+Intellectual Property and Project Experiences
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. right of the pencil icon.
 - Published a Chinese invention patent titled "Medical Image Protection Method Based on One Dimensional Chaotic Mapping Verified by Iris Features"
