@@ -20,7 +20,7 @@ My Academic Journey
 Education Background
 ------
 
-2016/09-present: Bachelor in Computer Science and Technology at Guangdong University of Technology
+2022/09-present: Bachelor in Computer Science and Technology at Guangdong University of Technology
 
 Relevant Courses: Principles of Computer Organization, Computer Networks, Artificial Intelligence, Operating Systems, Digital Logic Circuits, etc.
 
