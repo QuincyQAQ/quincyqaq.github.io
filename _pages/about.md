@@ -20,27 +20,26 @@ redirect_from:
 I am currently an undergraduate student at the School of Advanced Manufacturing, Guangdong University of Technology, and I have published 4 academic papers (including co-authorships)
 
 <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。--> 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+My research areas include:
+- Medical Image Processing
+- Image Security
+- Remote sensing monitoring
+- Edge Computing
+
   
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 Education Attainment
+
 - *2022.06 - now*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> the School of Advanced Manufacturing, Guangdong University of Technology, Guangdong Guangzhou, Bachelor's degree
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Thesis Patents
 
-### 英文
+### Papers
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
