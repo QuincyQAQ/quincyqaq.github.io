@@ -48,10 +48,10 @@ My research areas include:
 2. Le, Z.; Li, Q.; Chen, H.; Cai, S.; Xiong, X.; Huang, L. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. Phys. Scr. 2024, 99, 055249. [https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4][SCI Q3]（乐桢、李权俊）
 3. YOLO-Remote: An Object Detection Algorithm for Remote Sensing Targets[https://ieeexplore.ieee.org/document/10716369/authors#authors][SCI Q3]（李权俊、钟广祺、储悦）></a>。--> 
 
+2024 Phys. Scr. 99 055249
 
-
--	Zhen Le, `Quanjun Li`, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]]([https://dx.doi.org/10.1016/j.sna.2021.113091](https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4)) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	Zhen Le, `Quanjun Li`, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. *Physica Scripta*. 2024: 99 5. (JCR:Q2; IF:2.6)  
+[[网页]](https://doi.org/10.1016/j.heliyon.2024.e36612) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
 
 </div>
 </div>
@@ -77,10 +77,10 @@ My research areas include:
 ### Invention Patent   
 ---
 - 郑勇涛, `李权俊`. 基于虹膜特征验证的一维混沌映射的医学图像保护方法. [[网页]](https://www.patentguru.com/cn/CN117812196B)
-- 陈思盈,曹亚成,范楷晢,黎炜轩,周灵志,`李权俊`. 种适用于边缘计算设备的视频加密方法.[[网页]](https://www.patentguru.com/cn/CN118400472A)
-- 储悦,彭雅暄,黄庆烨,邓凯文,张裕嘉,`李权俊`. 
-
-
+- 陈思盈,曹亚成,范楷晢,黎炜轩,周灵志,`李权俊`. 一种适用于边缘计算设备的视频加密方法.[[网页]](https://www.patentguru.com/cn/CN118400472A)
+- 储悦,彭雅暄,黄庆烨,邓凯文,张裕嘉,`李权俊`. 基于一维混沌系统的图像保护系统、方法.[[网页]](https://www.patentguru.com/cn/CN118200458B)
+- 陈通宝,钟广祺,黎炜轩,储悦,李权俊,夏涵,蒋一帆,苏致弘,简灿,李剑锋. 基于改进的YOLOv8模型的风力涡轮机表面损伤和腐蚀检测方法.[[网页]](https://www.patentguru.com/cn/CN118505641A)
+- 郑勇涛,陈思盈,范楷晢,乐桢,钟广祺,黎炜轩,夏涵,蒋一帆,简灿,李权俊,蒋雯. 基于掌纹验证的二维混沌映射的无人机遥感图像保护方法.[[网页]](https://www.patentguru.com/cn/CN118473630A)
 
 
 
