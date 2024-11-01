@@ -37,10 +37,8 @@ My research areas include:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Thesis Patents
+# 🔬 Papers
 
-### Papers
----
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <!-- <
@@ -75,8 +73,9 @@ My research areas include:
 </div>
 </div>
 
-### Invention Patent   
----
+
+# 📝Invention Patent   
+
 - 郑勇涛, `李权俊`. 基于虹膜特征验证的一维混沌映射的医学图像保护方法. [[Website]](https://www.patentguru.com/cn/CN117812196B)
 - 陈思盈,曹亚成,范楷晢,黎炜轩,周灵志,`李权俊`. 一种适用于边缘计算设备的视频加密方法.[[Website]](https://www.patentguru.com/cn/CN118400472A)
 - 储悦,彭雅暄,黄庆烨,邓凯文,张裕嘉,`李权俊`. 基于一维混沌系统的图像保护系统、方法.[[Website]](https://www.patentguru.com/cn/CN118200458B)
@@ -90,8 +89,8 @@ My research areas include:
 
 # 🏅 Honorary Awards
 - *2015.06* Won the first prize in the 13th "Challenge Cup" Sichuan University Students' Extracurricular Academic and Scientific Works Competition [[News]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- National Training Program for College Students’ Innovation and Entrepreneurship
-
+- *2015.06* Won the National Training Program for College Students’ Innovation and Entrepreneurship
+- *2015.06* Won three second prizes in China Collegiate Computing Contest 2020 – Network Technology Challenge
 
 <span class='anchor' id='-xshy'></span>
 
