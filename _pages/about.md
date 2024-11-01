@@ -106,8 +106,8 @@ My research areas include:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Academic Conference
-- *2024.1*, CaMal Academic Lecture Series Topic: Correlation, Causation and Impact in Artificial Intelligence, Guangdong Guangzhou
-- *2024.7*, The 24th Huacheng Academician Science Summit
+- *2024.1*, The CaMal Academic Lecture Series Topic: Correlation, Causation and Impact in Artificial Intelligence, Guangdong Guangzhou
+- *2024.7*, The 24th Huacheng Academician Science Summit, Guangdong Guangzhou
 
 
 <span class='anchor' id='-gzsx'></span>
