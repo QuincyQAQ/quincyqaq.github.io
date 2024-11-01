@@ -121,4 +121,5 @@ My research areas include:
 
 # 💻 Work Placement
 - *2024.10 - 2024.12*, China National Petroleum Corporation.
+- *2024.5 - 2024.7*, Served as a reviewer for APPLIED MATHEMATICAL MODELLING.
 
