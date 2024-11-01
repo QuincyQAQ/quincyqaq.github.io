@@ -61,7 +61,7 @@ My research areas include:
 
 
 -	Kaizhe Fan, Qian Li, `Quanjun Li`, Guangqi Zhong, Yue Chu, Zhen Le. The influence of magnetic head’s pose on magnetic flux leakage detection. *IEEE ACCESS*. 2024, 12: 155654-155665. (JCR:Q2; IF:3.7)  
-[[网页]](https://ieeexplore.ieee.org/document/10716369/authors#authors) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+[[网页]](https://ieeexplore.ieee.org/document/10716369/authors#authors) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[Download]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
 
 </div>
 </div>
@@ -71,16 +71,16 @@ My research areas include:
 
 
 -	Kaizhe Fan, `Quanjun Li`, Zhen Le, Qian Li, Jianfeng Li, Ming yan. Harnessing the power of AI and IoT for real-time CO2 emission monitoring. *Heliyon*, 2024, e36612. (JCR:Q1; IF:3.9)  
-[[网页]](https://doi.org/10.1016/j.heliyon.2024.e36612) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[网页]](https://doi.org/10.1016/j.heliyon.2024.e36612) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[Download]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 
 ### Invention Patent   
 ---
-- 郑勇涛, `李权俊`. 基于虹膜特征验证的一维混沌映射的医学图像保护方法. [[网页]](https://www.patentguru.com/cn/CN117812196B)
-- 陈思盈,曹亚成,范楷晢,黎炜轩,周灵志,`李权俊`. 一种适用于边缘计算设备的视频加密方法.[[网页]](https://www.patentguru.com/cn/CN118400472A)
-- 储悦,彭雅暄,黄庆烨,邓凯文,张裕嘉,`李权俊`. 基于一维混沌系统的图像保护系统、方法.[[网页]](https://www.patentguru.com/cn/CN118200458B)
-- 陈通宝,钟广祺,黎炜轩,储悦,李权俊,夏涵,蒋一帆,苏致弘,简灿,李剑锋. 基于改进的YOLOv8模型的风力涡轮机表面损伤和腐蚀检测方法.[[网页]](https://www.patentguru.com/cn/CN118505641A)
-- 郑勇涛,陈思盈,范楷晢,乐桢,钟广祺,黎炜轩,夏涵,蒋一帆,简灿,李权俊,蒋雯. 基于掌纹验证的二维混沌映射的无人机遥感图像保护方法.[[网页]](https://www.patentguru.com/cn/CN118473630A)
+- 郑勇涛, `李权俊`. 基于虹膜特征验证的一维混沌映射的医学图像保护方法. [[Website]](https://www.patentguru.com/cn/CN117812196B)
+- 陈思盈,曹亚成,范楷晢,黎炜轩,周灵志,`李权俊`. 一种适用于边缘计算设备的视频加密方法.[[Website]](https://www.patentguru.com/cn/CN118400472A)
+- 储悦,彭雅暄,黄庆烨,邓凯文,张裕嘉,`李权俊`. 基于一维混沌系统的图像保护系统、方法.[[Website]](https://www.patentguru.com/cn/CN118200458B)
+- 陈通宝,钟广祺,黎炜轩,储悦,`李权俊`,夏涵,蒋一帆,苏致弘,简灿,李剑锋. 基于改进的YOLOv8模型的风力涡轮机表面损伤和腐蚀检测方法.[[Website]](https://www.patentguru.com/cn/CN118505641A)
+- 郑勇涛,陈思盈,范楷晢,乐桢,钟广祺,黎炜轩,夏涵,蒋一帆,简灿,`李权俊`,蒋雯. 基于掌纹验证的二维混沌映射的无人机遥感图像保护方法.[[Website]](https://www.patentguru.com/cn/CN118473630A)
 
 
 
@@ -88,7 +88,9 @@ My research areas include:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honorary Awards
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
+- *2015.06* Won the first prize in the 13th "Challenge Cup" Sichuan University Students' Extracurricular Academic and Scientific Works Competition [[News]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
+- National Training Program for College Students’ Innovation and Entrepreneurship
+
 
 <span class='anchor' id='-xshy'></span>
 
