@@ -58,7 +58,7 @@ My research areas include:
 
 
 -	Kaizhe Fan, Qian Li, `Quanjun Li`, Guangqi Zhong, Yue Chu, Zhen Le. The influence of magnetic head’s pose on magnetic flux leakage detection. *IEEE ACCESS*. 2024, 12: 155654-155665. (JCR:Q2; IF:3.7)  
-[[网页]](https://ieeexplore.ieee.org/document/10716369/authors#authors) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[Download]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+[[网页]](https://ieeexplore.ieee.org/document/10716369/authors#authors) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[Download]](/pdf/YOLO-Remote_An_Object_Detection_Algorithm_for_Remote_Sensing_Targets.pdf)
 
 </div>
 </div>
