@@ -104,7 +104,7 @@ My research areas include:
 
 # 🏅 Honorary Awards
 - *2022.11* Received Sun Yat-sen University Haijing Association-Seaview Scholarship [[Website]](https://pan.baidu.com/s/1Fn1AGrEg1C4imEgYQaA9Uw?pwd=xyk7)
-- *2024.05* Participate the National Training Program for College Students’ Innovation and Entrepreneurship`(L1 competition)` [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)
+- *2024.05* Participate the National Training Program for College Students’ Innovation and Entrepreneurship [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)
 - *2024.06* Won three second prizes in China Collegiate Computing Contest 2020 – Network Technology Challenge`(L1 competition)` [[News]](https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA)
 - *2024.06* Received three innovation scholarships [[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)
 - *2024.06* Won the First Prize in the Guangdong Province University Economics Comprehensive Game Theory Competition`(L2 competition)` [[News]](https://bms.jiecl.com/Module/Competitions/CompetitionTeamList.aspx?type=&CompetitionID=4091184203696312320&SchoolID=0&page=1)
