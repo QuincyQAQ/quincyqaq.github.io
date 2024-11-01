@@ -53,7 +53,7 @@ My research areas include:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ACCESS. 2024</div><img src='images/po/results.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ACCESS. 2024</div><img src='images/po/aircraft4-remote.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
