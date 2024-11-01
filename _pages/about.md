@@ -73,6 +73,8 @@ My research areas include:
 -	Kaizhe Fan, `Quanjun Li`, Zhen Le, Qian Li, Jianfeng Li, Ming yan. Harnessing the power of AI and IoT for real-time CO2 emission monitoring. *Heliyon*, 2024, e36612. (JCR:Q1; IF:3.9)  
 [[网页]](https://doi.org/10.1016/j.heliyon.2024.e36612) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[Download]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
+</div>
+</div>
 
 ### Invention Patent   
 ---
