@@ -33,7 +33,7 @@ My research areas include:
 
 # 🎓 Education Attainment
 
-- *2022.06 - now*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> the School of Advanced Manufacturing, Guangdong University of Technology, Guangdong Guangzhou, Bachelor's degree
+- *2022.06 - now*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/GDUT_LOGO.svg" width="20pt"></a> the School of Advanced Manufacturing, Guangdong University of Technology, Guangdong Guangzhou, Bachelor's degree
  
 <span class='anchor' id='-lwzl'></span>
 
