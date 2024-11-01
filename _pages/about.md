@@ -88,14 +88,19 @@ My research areas include:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honorary Awards
-- *2024.06* Won the National Training Program for College Students’ Innovation and Entrepreneurship [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm) 
-- *2024.06* Won three second prizes in China Collegiate Computing Contest 2020 – Network Technology Challenge [[News]](https://mp.weixin.qq.com/s/zfMifOCjjt6c9VHZAa__Rg) 
+- *2022.11*Received Sun Yat-sen University Haijing Association-Seaview Scholarship and {https://pan.baidu.com/s/1Fn1AGrEg1C4imEgYQaA9Uw?pwd=xyk7}
+- *2024.06* Won the first prize in the 13th "Challenge Cup" Sichuan University Students' Extracurricular Academic and Scientific Works Competition [[News]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
+- *2024.06* Won the National Training Program for College Students’ Innovation and Entrepreneurship
+- *2024.06* Won three second prizes in China Collegiate Computing Contest 2020 – Network Technology Challenge
+- *2024.06* Received three innovation scholarships [[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)
+- *2024.06* Received three innovation scholarships [[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)
+
+
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ Academic Conference
-- *2024.1*, CaMal Academic Lecture Series Topic: Correlation, Causation and Impact in Artificial Intelligence, Guangdong Guangzhou
-- *2024.7*,The 24th Huacheng Academician Science Summit, Guangdong Guangzhou
+- *2021.10*, CaMal Academic Lecture Series Topic: Correlation, Causation and Impact in Artificial Intelligence, Guangdong Guangzhou
 
 
 <span class='anchor' id='-gzsx'></span>
