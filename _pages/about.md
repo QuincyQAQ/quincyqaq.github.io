@@ -99,6 +99,7 @@ My research areas include:
 - *2024.06* Won three second prizes in China Collegiate Computing Contest 2020 – Network Technology Challenge [[News]](https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA)
 - *2024.06* Received three innovation scholarships [[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)
 - *2024.06* Won the First Prize in the Guangdong Province University Economics Comprehensive Game Theory Competition
+- *2024.11* Won the third prizes in the 2024  Guangdong University Student Computer Design Competition
 
 
 
