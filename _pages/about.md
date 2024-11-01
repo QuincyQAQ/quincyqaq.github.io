@@ -73,6 +73,14 @@ My research areas include:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Heliyon. 2024</div><img src='images/po/1730476059227.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+-	Jianwu Xu, Kun Liu, Qingye Huang, Quanjun Li, Linqing Huang. A Plaintext-Related and Ciphertext Feedback Mechanism for Medical Image Encryption Based on a New One-Dimensional Chaotic System. *Physica Scripta*, 2024, e36612. (JCR:Q1; IF:3.9)  
+[[Website]](https://beta.iopscience.iop.org/article/10.1088/1402-4896/ad8bfc) [[Download]](/pdf/PIIS2405844024126436.pdf)
+
+https://beta.iopscience.iop.org/article/10.1088/1402-4896/ad8bfc
 
 # 📝Invention Patent & Software Copyright
 
