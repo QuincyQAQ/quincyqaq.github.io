@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
+title                    : "李权俊"
 description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+repository               : "QuincyQAQ/quincyqaq.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "Quanjun Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
+  bio              : "Guangdong University of Technology"
+  location         : "Guangzhou"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=EzQTGP8AAAAJ&view_op=list_works&gmla=AC6lMd9iOuh2NDOaN5RjpzOvidox1MdCxFjyFw2NCUEoDMGQRwg50LxTehzqeUb1OnyicQP5V2qxasMYHwP_coYJ9Y3-d_UHxQnaf9tlIg0"
+  email            : "3122008887@mail2.gdut.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "QuincyQAQ"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0009-0007-5149-242X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
