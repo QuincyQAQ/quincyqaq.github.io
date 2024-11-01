@@ -80,7 +80,8 @@ My research areas include:
 -	Jianwu Xu, Kun Liu, Qingye Huang, Quanjun Li, Linqing Huang. A Plaintext-Related and Ciphertext Feedback Mechanism for Medical Image Encryption Based on a New One-Dimensional Chaotic System. *Physica Scripta*, 2024, e36612. (JCR:Q1; IF:3.9)  
 [[Website]](https://beta.iopscience.iop.org/article/10.1088/1402-4896/ad8bfc) [[Download]](/pdf/PIIS2405844024126436.pdf)
 
-https://beta.iopscience.iop.org/article/10.1088/1402-4896/ad8bfc
+</div>
+</div>
 
 # 📝Invention Patent & Software Copyright
 
