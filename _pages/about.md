@@ -63,7 +63,7 @@ My research areas include:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Heliyon. 2024</div><img src='images/po/1730476059227.png alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Heliyon. 2024</div><img src='images/po/1730476059227.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
