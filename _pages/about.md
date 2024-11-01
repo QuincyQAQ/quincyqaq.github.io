@@ -33,7 +33,7 @@ My research areas include:
 
 # 🎓 Education Attainment
 
-- *2022.06 - now*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/GDUT_LOGO.svg" width="20pt"></a> the School of Advanced Manufacturing, Guangdong University of Technology, Guangdong Guangzhou, Bachelor's degree
+- *2022.06 - now*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/GDUT_LOGO.png" width="20pt"></a> the School of Advanced Manufacturing, Guangdong University of Technology, Guangdong Guangzhou, Bachelor's degree
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -48,7 +48,6 @@ My research areas include:
 2. Le, Z.; Li, Q.; Chen, H.; Cai, S.; Xiong, X.; Huang, L. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. Phys. Scr. 2024, 99, 055249. [https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4][SCI Q3]（乐桢、李权俊）
 3. YOLO-Remote: An Object Detection Algorithm for Remote Sensing Targets[https://ieeexplore.ieee.org/document/10716369/authors#authors][SCI Q3]（李权俊、钟广祺、储悦）></a>。--> 
 
-2024 Phys. Scr. 99 055249
 
 -	Zhen Le, `Quanjun Li`, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. *Physica Scripta*. 2024: 99 5. (JCR:Q2; IF:2.6)  
 [[网页]](https://doi.org/10.1016/j.heliyon.2024.e36612) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
