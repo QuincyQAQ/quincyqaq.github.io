@@ -74,9 +74,9 @@ My research areas include:
 </div>
 
 
-# 📝Invention Patent 
+# 📝Invention Patent & Software Copyright
 
-### Invention Patent & Software Copyright
+### Invention Patent
 ---
 - 郑勇涛, `李权俊`. 基于虹膜特征验证的一维混沌映射的医学图像保护方法. [[Website]](https://www.patentguru.com/cn/CN117812196B)
 - 陈思盈,曹亚成,范楷晢,黎炜轩,周灵志,`李权俊`. 一种适用于边缘计算设备的视频加密方法.[[Website]](https://www.patentguru.com/cn/CN118400472A)
