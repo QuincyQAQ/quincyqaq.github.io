@@ -48,7 +48,7 @@ My research areas include:
 
 
 -	Zhen Le, `Quanjun Li`, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. *Physica Scripta*. 2024: 99 5. (JCR:Q2; IF:2.6)  
-[[网页]](https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/Le_2024_Phys._Scr._99_055249 (1).pdf)
+[[网页]](https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4)[[下载]](/pdf/Le_2024_Phys._Scr._99_055249 (1).pdf)
 
 </div>
 </div>
@@ -58,7 +58,7 @@ My research areas include:
 
 
 -	Kaizhe Fan, Qian Li, `Quanjun Li`, Guangqi Zhong, Yue Chu, Zhen Le. The influence of magnetic head’s pose on magnetic flux leakage detection. *IEEE ACCESS*. 2024, 12: 155654-155665. (JCR:Q2; IF:3.7)  
-[[网页]](https://ieeexplore.ieee.org/document/10716369/authors#authors) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[Download]](/pdf/YOLO-Remote_An_Object_Detection_Algorithm_for_Remote_Sensing_Targets.pdf)
+[[网页]](https://ieeexplore.ieee.org/document/10716369/authors#authors) [[Download]](/pdf/YOLO-Remote_An_Object_Detection_Algorithm_for_Remote_Sensing_Targets.pdf)
 
 </div>
 </div>
