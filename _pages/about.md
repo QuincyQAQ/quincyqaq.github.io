@@ -39,7 +39,7 @@ My research areas include:
 
 # 🔬 Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/po/f6-eps-converted-to.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <!-- <
 1. Harnessing the power of AI and IoT for real-time CO2 emission monitoring, Heliyon, 2024, e36612, ISSN 2405-8440,[https://doi.org/10.1016/j.heliyon.2024.e36612][SCI Q3]（李权俊、乐桢）
@@ -53,7 +53,7 @@ My research areas include:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/po/results.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
