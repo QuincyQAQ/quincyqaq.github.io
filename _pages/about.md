@@ -27,8 +27,8 @@ My research areas include:
 - Edge Computing
 
 Languages I am good at: Python, matlab, C++, Latex, Markdown
-Skills I have: Linux server security maintenance, deployment of algorithms on edge computing devices, basic Github usage skills
 
+Skills: Linux server security maintenance, deployment of algorithms on edge computing devices, basic Github skills, writing and polishing patents and papers.
 
 <span class='anchor' id='-xl'></span>
 
