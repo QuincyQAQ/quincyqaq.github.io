@@ -26,7 +26,8 @@ My research areas include:
 - Remote sensing monitoring
 - Edge Computing
 
-  
+Languages I am good at: Python, matlab, C++, Latex, Markdown
+Skills I have: Linux server security maintenance, deployment of algorithms on edge computing devices, basic Github usage skills
 
 
 <span class='anchor' id='-xl'></span>
