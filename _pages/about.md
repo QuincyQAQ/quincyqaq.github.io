@@ -49,7 +49,7 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 
 
 -	Zhen Le, `Quanjun Li`, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. *Physica Scripta*. 2024: 99 5. (JCR:Q2; IF:2.6)  
-[[Website]](https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4)[[Download]](/pdf/Le_2024_Phys._Scr._99_055249 (1).pdf)
+[[Website]](https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4)[[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf)
 
 </div>
 </div>
@@ -59,7 +59,7 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 
 
 -	Kaizhe Fan, Qian Li, `Quanjun Li`, Guangqi Zhong, Yue Chu, Zhen Le. The influence of magnetic head’s pose on magnetic flux leakage detection. *IEEE ACCESS*. 2024, 12: 155654-155665. (JCR:Q2; IF:3.7)  
-[[Website]](https://ieeexplore.ieee.org/document/10716369/authors#authors) [[Download]](/pdf/YOLO-Remote_An_Object_Detection_Algorithm_for_Remote_Sensing_Targets.pdf)
+[[Website]](https://ieeexplore.ieee.org/document/10716369/authors#authors) [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/YOLO-Remote_An_Object_Detection_Algorithm_for_Remote_Sensing_Targets.pdf)
 
 </div>
 </div>
@@ -69,7 +69,7 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 
 
 -	Kaizhe Fan, `Quanjun Li`, Zhen Le, Qian Li, Jianfeng Li, Ming yan. Harnessing the power of AI and IoT for real-time CO2 emission monitoring. *Heliyon*, 2024, e36612. (JCR:Q1; IF:3.9)  
-[[Website]](https://doi.org/10.1016/j.heliyon.2024.e36612) [[Download]](/pdf/PIIS2405844024126436.pdf)
+[[Website]](https://doi.org/10.1016/j.heliyon.2024.e36612) [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/PIIS2405844024126436.pdf)
 
 </div>
 </div>
@@ -77,9 +77,8 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Heliyon. 2024</div><img src='images/po/2024.11.02.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 -	Jianwu Xu, Kun Liu, Qingye Huang, `Quanjun Li`, Linqing Huang. A Plaintext-Related and Ciphertext Feedback Mechanism for Medical Image Encryption Based on a New One-Dimensional Chaotic System. *Physica Scripta*, 2024, e36612. (JCR:Q2; IF:2.6)  
-[[Website]](https://beta.iopscience.iop.org/article/10.1088/1402-4896/ad8bfc) [[Download]](/pdf/PIIS2405844024126436.pdf)
+[[Website]](https://beta.iopscience.iop.org/article/10.1088/1402-4896/ad8bfc) [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/PIIS2405844024126436.pdf)
 
 </div>
 </div>
@@ -109,7 +108,7 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 - *2024.06* Won three second prizes in China Collegiate Computing Contest 2020 – Network Technology Challenge`(L1 competition)` [[News]](https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA)
 - *2024.06* Received three innovation scholarships [[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)
 - *2024.06* Won the First Prize in the Guangdong Province University Economics Comprehensive Game Theory Competition [[News]](https://bms.jiecl.com/Module/Competitions/CompetitionTeamList.aspx?type=&CompetitionID=4091184203696312320&SchoolID=0&page=1)
-- *2024.11* Won the third prizes in the 2024  Guangdong University Student Computer Design Competition`(L1 competition)` [[Download]](/pdf/2409013353_212960.pdf)
+- *2024.11* Won the third prizes in the 2024  Guangdong University Student Computer Design Competition`(L1 competition)` [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/2409013353_212960.pdf)
 
 <span class='anchor' id='-xshy'></span>
 
