@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at the School of Advanced Manufacturing, Guangdong University of Technology, and I joined the Guangdong Provincial Key Laboratory of Cyber-Physical Systems[[Report]](https://cs.gdut.edu.cn/info/2722/3883.htm), and studied under Professor Guoheng Huang[[Report]](https://yzw.gdut.edu.cn/info/1120/1829.htm).
+I am currently an undergraduate student at the School of Advanced Manufacturing, Guangdong University of Technology, and I joined the Guangdong Provincial Key Laboratory of Cyber-Physical Systems[[Website]](https://cs.gdut.edu.cn/info/2722/3883.htm), and studied under Professor Guoheng Huang[[Website]](https://yzw.gdut.edu.cn/info/1120/1829.htm).
 
 <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。--> 
 My research areas include:
