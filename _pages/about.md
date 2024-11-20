@@ -98,6 +98,7 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 - 云集千翼无人机飞控软件[简称：云集千翼]V1.0
 - 新型一维混沌系统的遥感图像加密系统
 - 智能机器人AI监护系统v1.0
+- 基于RT-DETR的智能果树管理系统
 
 
 <span class='anchor' id='-ryjx'></span>
