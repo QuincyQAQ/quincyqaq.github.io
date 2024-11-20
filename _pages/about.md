@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at the School of Advanced Manufacturing, Guangdong University of Technology, and I have published 4 academic papers (including co-authorships)
+I am currently an undergraduate student at the School of Advanced Manufacturing, Guangdong University of Technology, and I joined the Guangdong Provincial Key Laboratory of Cyber-Physical Systems[[Report]](https://cs.gdut.edu.cn/info/2722/3883.htm), and studied under Professor Guoheng Huang[[Report]](https://yzw.gdut.edu.cn/info/1120/1829.htm).
 
 <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。--> 
 My research areas include:
@@ -39,6 +39,8 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 <span class='anchor' id='-lwzl'></span>
 
 # 🔬 Papers
+
+I have published 4 academic papers (including co-authorships)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physica Scripta. 2024</div><img src='images/po/f5-eps-converted-to.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
