@@ -49,7 +49,7 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 
 
 -	Zhen Le, `Quanjun Li`, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. *Physica Scripta*. 2024: 99 5. (JCR:Q2; IF:2.6)  
-[[Website]](https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4)[[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf)[[Report]](./pdf/Heliyon_AP.pdf))
+[[Website]](https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4)[[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf)[[Report]](../pdf/Heliyon_AP.pdf))
 
 </div>
 </div>
