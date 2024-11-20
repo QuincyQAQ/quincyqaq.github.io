@@ -49,7 +49,7 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 
 
 -	Zhen Le, `Quanjun Li`, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. *Physica Scripta*. 2024: 99 5. (JCR:Q2; IF:2.6)  
-[[Website]](https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4)[[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf)[[Report]](../pdf/Heliyon_AP.pdf))
+[[Website]](https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4)[[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf)[[Report]](../pdf/PhysicalScripta_AP.pdf))
 
 </div>
 </div>
@@ -59,7 +59,7 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 
 
 -	Kaizhe Fan, Qian Li, `Quanjun Li`, Guangqi Zhong, Yue Chu, Zhen Le. The influence of magnetic head’s pose on magnetic flux leakage detection. *IEEE ACCESS*. 2024, 12: 155654-155665. (JCR:Q2; IF:3.7)  
-[[Website]](https://ieeexplore.ieee.org/document/10716369/authors#authors) [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/YOLO-Remote_An_Object_Detection_Algorithm_for_Remote_Sensing_Targets.pdf)[[Report]](./pdf/Heliyon_AP.pdf)
+[[Website]](https://ieeexplore.ieee.org/document/10716369/authors#authors) [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/YOLO-Remote_An_Object_Detection_Algorithm_for_Remote_Sensing_Targets.pdf)[[Report]](../pdf/Access_AP.pdf))
 
 </div>
 </div>
@@ -69,7 +69,7 @@ Skills: Linux server security maintenance, deployment of algorithms on edge comp
 
 
 -	Kaizhe Fan, `Quanjun Li`, Zhen Le, Qian Li, Jianfeng Li, Ming yan. Harnessing the power of AI and IoT for real-time CO2 emission monitoring. *Heliyon*, 2024, e36612. (JCR:Q1; IF:3.9)  
-[[Website]](https://doi.org/10.1016/j.heliyon.2024.e36612) [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/PIIS2405844024126436.pdf)[[Report]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/PIIS2405844024126436.pdf)
+[[Website]](https://doi.org/10.1016/j.heliyon.2024.e36612) [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/PIIS2405844024126436.pdf)[[Report]](../pdf/Heliyon_AP.pdf))
 
 </div>
 </div>
