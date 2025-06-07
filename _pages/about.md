@@ -101,19 +101,6 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Scholarship. 2022</div>
-            <img src='images/award_icon.png' alt="Scholarship Icon" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <p>Received <b>Sun Yat-sen University Haijing Association-Seaview Scholarship</b>.</p>
-        <p>[[Website]](https://pan.baidu.com/s/1Fn1AGrEg1C4imEgYQaA9Uw?pwd=xyk7)</p>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
             <div class="badge">Program. 2024</div>
             <img src='images/program_icon.png' alt="Program Icon" width="100%">
         </div>
@@ -132,21 +119,8 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
         </div>
     </div>
     <div class='paper-box-text'>
-        <p>Won <b>three Second Prizes</b> in the China Collegiate Computing Contest 2020 – Network Technology Challenge (L1 competition).</p>
+        <p>Won <b>three Second Prizes</b> in the China Collegiate Computing Contest 2024 – Network Technology Challenge (L1 competition).</p>
         <p>[[News]](https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA)</p>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Scholarship. 2024</div>
-            <img src='images/award_icon.png' alt="Scholarship Icon" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <p>Received <b>three Innovation Scholarships</b>.</p>
-        <p>[[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)</p>
     </div>
 </div>
 
