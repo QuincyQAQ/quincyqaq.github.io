@@ -54,7 +54,7 @@ I have published 4 academic papers (including co-authorships).
     <div class='paper-box-text'>
         <p><b>Quanjun Li</b>, Quanjun Li , Qian Li , Bingo Wing-Kuen Ling , Senior Member, IEEE, Chi-Man Pun , Senior Member, IEEE,
 Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen. "DPPAD-IE: Dynamic Polyhedra Permutating and Arnold Diffusing Medical Image Encryption Using 2D Cross Gaussian Hyperchaotic Map." <i>Physica Scripta</i>, 2025, 99(5): 055249. (JCR: Q1; IF: 2.6)</p>
-        <p>[<a href="https://ieeexplore.ieee.org/document/10909287/authors#authors">Website</a>] [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10909287">Download</a>] [<a href="../pdf/PhysicalScripta_AP.pdf">Report</a>]</p>
+        <p>[<a href="https://ieeexplore.ieee.org/document/10909287/authors#authors">Website</a>] [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10909287">Download</a>] [<a href="../pdf/TCE/DPPAD-IE_Dynamic_Polyhedra_Permutating_and_Arnold_Diffusing_Medical_Image_Encryption_Using_2D_Cross_Gaussian_Hyperchaotic_Map-2.pdf">Report</a>]</p>
     </div>
 </div>
 
