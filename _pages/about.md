@@ -95,7 +95,7 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Patent. 2024</div> <img src='pdf/zhuanli/Page_1_docsmall.com.jpg' alt="Patent Image" width="100%"> </div>
+            <div class="badge">Invention Patent</div> <img src='pdf/zhuanli/Page_1_docsmall.com.jpg' alt="Patent Image" width="100%"> </div>
     </div>
     <div class='paper-box-text'>
         <p>郑勇涛, <b>李权俊</b>. <b>基于虹膜特征验证的一维混沌映射的医学图像保护方法</b>. </p>
@@ -113,7 +113,7 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Patent. 2024</div> <img src='pdf/zhuanli/ruanzhu.jpg' alt="Patent Image" width="100%"> </div>
+            <div class="badge">Software Copyright</div> <img src='pdf/zhuanli/ruanzhu.jpg' alt="Patent Image" width="100%"> </div>
     </div>
     <div class='paper-box-text'>
         <p>夏涵,钟广祺,蒋一帆,李倩,黎炜轩,<b>李权俊</b>. <b>云集千翼无人机飞控软件[简称：云集千翼]V1.0</b>. </p>
