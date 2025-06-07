@@ -48,7 +48,7 @@ I have published 4 academic papers (including co-authorships).
     <div class='paper-box-image'>
         <div>
             <div class="badge">IEEE Transactions on Consumer Electronics. 2024</div>
-            <img src='images/po/f5-eps-converted-to.jpg' alt="sym" width="100%">
+            <img src='images/TCE/加密框架(11.24).jpg' alt="sym" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
