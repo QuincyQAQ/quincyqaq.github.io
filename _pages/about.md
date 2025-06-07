@@ -115,7 +115,7 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
     <div class='paper-box-image'>
         <div>
             <div class="badge">Competition. 2024</div>
-            <img src='images/competition_icon.png' alt="Competition Icon" width="100%">
+            <img src='images/C4/7481749276642_.pic.jpg' alt="Competition Icon" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
