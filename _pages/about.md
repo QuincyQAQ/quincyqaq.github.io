@@ -94,8 +94,22 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
 - *2024.05* Participate the National Training Program for College Students’ Innovation and Entrepreneurship [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)
 - *2024.06* Won three second prizes in China Collegiate Computing Contest 2020 – Network Technology Challenge`(L1 competition)` [[News]](https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA)
 - *2024.06* Received three innovation scholarships [[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)
-- *2024.06* Won the First Prize in the Guangdong Province University Economics Comprehensive Game Theory Competition [[News]](https://bms.jiecl.com/Module/Competitions/CompetitionTeamList.aspx?type=&CompetitionID=4091184203696312320&SchoolID=0&page=1)
 - *2024.11* Won the third prizes in the 2024  Guangdong University Student Computer Design Competition`(L1 competition)` [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/2409013353_212960.pdf)
+- *2024.11* Won the third prizes in the 2024  Guangdong University Student Computer Design Competition`(L1 competition)` [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/2409013353_212960.pdf)
+- *2024.11* Won the Silver Medal, BirdCLEF 2025, Kaggle. (Ranked 47th out of 2026 teams in a machine learning competition focused on bird sound classification.)
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Physica Scripta. 2024</div>
+            <img src='images/po/f5-eps-converted-to.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p>Zhen Le, <b>Quanjun Li</b>, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. "Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map." <i>Physica Scripta</i>, 2024, 99(5): 055249. (JCR: Q2; IF: 2.6)</p>
+        <p>[<a href="https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4">Website</a>] [<a href="https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf">Download</a>] [<a href="../pdf/PhysicalScripta_AP.pdf">Report</a>]</p>
+    </div>
+</div>
 
 <span class='anchor' id='-xshy'></span>
 
