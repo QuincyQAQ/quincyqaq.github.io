@@ -135,7 +135,7 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
     </div>
     <div class='paper-box-text'>
         <p>Participated in the <b>National Training Program for College Students’ Innovation and Entrepreneurship</b>.</p>
-        <p>[[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)</p>
+<p><a href="https://jyxq.gdut.edu.cn/info/1065/5296.htm">[[News]]</a></p>
     </div>
 </div>
 
