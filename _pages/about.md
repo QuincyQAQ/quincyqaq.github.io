@@ -91,7 +91,6 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 # 📝Invention Patent & Software Copyright
 
 ### Invention Patent
----
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -109,7 +108,6 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 
   
 ### Software Copyright
----
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -127,6 +125,18 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 # 🏅 Honorary Awards
 - *2022.11* Received Sun Yat-sen University Haijing Association-Seaview Scholarship [[Website]](https://pan.baidu.com/s/1Fn1AGrEg1C4imEgYQaA9Uw?pwd=xyk7)
 
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Scholarship. 2022</div>
+            <img src='pdf/jiangxuejin/扫描全能王 2025-06-07 15.28_1.jpg' alt="Program Icon" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p>Received Sun Yat-sen University Haijing Association-Seaview Scholarship</b>.</p>
+<p><a href="https://jyxq.gdut.edu.cn/info/1065/5296.htm">[[News]]</a></p>
+    </div>
+</div>
 ---
 - *2024.05* Participate the National Training Program for College Students’ Innovation and Entrepreneurship [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)
 <div class='paper-box'>
