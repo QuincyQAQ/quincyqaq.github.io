@@ -63,7 +63,7 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">IEEE International Conference on Bioinformatics & Biomedicine. 2024</div>
+            <div class="badge">IEEE BIBM. 2025</div>
             <img src='pdf/BIBM/BIBM.jpg' alt="sym" width="100%">
         </div>
     </div>
