@@ -97,7 +97,6 @@ I have published 4 academic papers (including co-authorships)
 - *2024.1*, The CaMal Academic Lecture Series Topic: Correlation, Causation and Impact in Artificial Intelligence, Guangdong Guangzhou.
 - *2024.7*, The 24th Huacheng Academician Science Summit, Guangdong Guangzhou.
 
-
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Work Placement
