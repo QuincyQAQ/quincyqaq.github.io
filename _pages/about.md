@@ -126,8 +126,21 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 
 # 🏅 Honorary Awards
 - *2022.11* Received Sun Yat-sen University Haijing Association-Seaview Scholarship [[Website]](https://pan.baidu.com/s/1Fn1AGrEg1C4imEgYQaA9Uw?pwd=xyk7)
-- *2024.05* Participate the National Training Program for College Students’ Innovation and Entrepreneurship [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)
 
+---
+- *2024.05* Participate the National Training Program for College Students’ Innovation and Entrepreneurship [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Program. 2024</div>
+            <img src='pdf/dachuang/Page_1_docsmall.com.jpg' alt="Program Icon" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p>Participated in the <b>National Training Program for College Students’ Innovation and Entrepreneurship</b>.</p>
+<p><a href="https://jyxq.gdut.edu.cn/info/1065/5296.htm">[[News]]</a></p>
+    </div>
+</div>
 ---
 - *2024.06* Won three second prizes in China Collegiate Computing Contest 2020 – Network Technology Challenge`(L1 competition)` [[News]](https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA)
   
@@ -163,19 +176,20 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 ---
 
 - *2024.11* Won the third prizes in the 2024  Guangdong University Student Computer Design Competition`(L1 competition)` [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/2409013353_212960.pdf)
-
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Program. 2024</div>
-            <img src='pdf/dachuang/Page_1_docsmall.com.jpg' alt="Program Icon" width="100%">
+            <div class="badge">Competition. 2024</div>
+            <img src='pdf/jishe/jishe.jpg' alt="Competition Icon" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
-        <p>Participated in the <b>National Training Program for College Students’ Innovation and Entrepreneurship</b>.</p>
-<p><a href="https://jyxq.gdut.edu.cn/info/1065/5296.htm">[[News]]</a></p>
+        <p>Won the third prizes in the 2024  Guangdong University Student Computer Design Competition.</p>
+<p><a href="https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA">[[News]]</a></p>
     </div>
 </div>
+
+
 
 ---
 
