@@ -92,17 +92,18 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
 
 ### Invention Patent
 ---
-
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Program. 2024</div>
-            <img src='pdf/zhuanli/Page_1_docsmall.com.jpg' alt="Program Icon" width="100%">
-        </div>
+            <div class="badge">Patent. 2024</div> <img src='pdf/zhuanli/Page_1_docsmall.com.jpg' alt="Patent Image" width="100%"> </div>
     </div>
     <div class='paper-box-text'>
-        <p> 郑勇涛, `李权俊`. 基于虹膜特征验证的一维混沌映射的医学图像保护方法. [[Website]](https://www.patentguru.com/cn/CN117812196B)</b>.</p>
-        <p>[[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)</p>
+        <p>郑勇涛, <b>李权俊</b>. <b>基于虹膜特征验证的一维混沌映射的医学图像保护方法</b>. </p>
+        <p>中国专利: CN117812196B.</p>
+        <p>
+            [[Website]](https://www.patentguru.com/cn/CN117812196B)
+            [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)
+        </p>
     </div>
 </div>
 
