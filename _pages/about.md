@@ -100,9 +100,9 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
     <div class='paper-box-text'>
         <p>郑勇涛, <b>李权俊</b>. <b>基于虹膜特征验证的一维混沌映射的医学图像保护方法</b>. </p>
         <p>中国专利: CN117812196B.</p>
-        <p>
-            [[Website]](https://www.patentguru.com/cn/CN117812196B)
-            [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)
+       <p>
+    [<a href="https://www.patentguru.com/cn/CN117812196B">Website</a>]
+    [<a href="https://jyxq.gdut.edu.cn/info/1065/5296.htm">News</a>]
         </p>
     </div>
 </div>
