@@ -63,6 +63,20 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
+            <div class="badge">IEEE International Conference on Bioinformatics & Biomedicine. 2024</div>
+            <img src='pdf/BIBM/BIBM.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p><b>Quanjun Li</b>, Quanjun Li, Weixuan Li ,Junhua Zhou, and Xuhang Chen. "HAFT: Hierarchical Attentional Fusion Transformer for Adaptive Feature Fusion in Medical Image Segmentation." <i>BIBM</i>, 2025. (CCFB)</p>
+        <p>[<a href="https://ieeexplore.ieee.org/document/10909287/authors#authors">Website</a>] [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10909287">Download</a>] [<a href="../pdf/TCE/DPPAD-IE_Dynamic_Polyhedra_Permutating_and_Arnold_Diffusing_Medical_Image_Encryption_Using_2D_Cross_Gaussian_Hyperchaotic_Map-2.pdf">Report</a>]</p>
+    </div>
+</div>
+---
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
             <div class="badge">COMPUTER GRAPHICS INTERNATIONAL. 2025</div>
             <img src='pdf/CGI/po.jpg' alt="sym" width="100%">
         </div>
