@@ -68,10 +68,25 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
         </div>
     </div>
     <div class='paper-box-text'>
+        <p>Junhua Zhou, <b>Quanjun Li</b>, Xuhang Chen. "SWAN: A Synergistic Wavelet Attention Network for Enhanced Underwater Image Enhancement." <i>Physica Scripta</i>, 2024, 99(5): 055249. (CCFC)</p>
+        <p>[<a href="https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4">Website</a>] [<a href="https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf">Download</a>] [<a href="../pdf/PhysicalScripta_AP.pdf">Report</a>]</p>
+    </div>
+</div>
+
+---
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Physica Scripta. 2024</div>
+            <img src='images/po/f5-eps-converted-to.jpg' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
         <p>Zhen Le, <b>Quanjun Li</b>, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. "Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map." <i>Physica Scripta</i>, 2024, 99(5): 055249. (JCR: Q2; IF: 2.6)</p>
         <p>[<a href="https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4">Website</a>] [<a href="https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf">Download</a>] [<a href="../pdf/PhysicalScripta_AP.pdf">Report</a>]</p>
     </div>
 </div>
+
 
 # 📝Invention Patent & Software Copyright
 
