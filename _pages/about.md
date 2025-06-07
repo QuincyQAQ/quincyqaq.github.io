@@ -121,7 +121,8 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 - *2022.11* Received Sun Yat-sen University Haijing Association-Seaview Scholarship [[Website]](https://pan.baidu.com/s/1Fn1AGrEg1C4imEgYQaA9Uw?pwd=xyk7)
 - *2024.05* Participate the National Training Program for College Students’ Innovation and Entrepreneurship [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)
 - *2024.06* Won three second prizes in China Collegiate Computing Contest 2020 – Network Technology Challenge`(L1 competition)` [[News]](https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA)
-- <div class='paper-box'>
+  
+<div class='paper-box'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">Competition. 2024</div>
@@ -157,7 +158,7 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Kaggle. 2024</div>
+            <div class="badge">Kaggle. 2025</div>
             <img src='pdf/kaggle/QuanjunLi - BirdCLEF+ 2025.png' alt="Kaggle Silver Medal" width="100%">
         </div>
     </div>
