@@ -121,9 +121,21 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 - *2022.11* Received Sun Yat-sen University Haijing Association-Seaview Scholarship [[Website]](https://pan.baidu.com/s/1Fn1AGrEg1C4imEgYQaA9Uw?pwd=xyk7)
 - *2024.05* Participate the National Training Program for College Students’ Innovation and Entrepreneurship [[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)
 - *2024.06* Won three second prizes in China Collegiate Computing Contest 2020 – Network Technology Challenge`(L1 competition)` [[News]](https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA)
+- <div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Competition. 2024</div>
+            <img src='pdf/C4/7481749276642_.pic.jpg' alt="Competition Icon" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p>Won <b>three Second Prizes</b> in the China Collegiate Computing Contest 2020 – Network Technology Challenge (L1 competition).</p>
+<p><a href="https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA">[[News]]</a></p>
+    </div>
+</div>
+
 - *2024.06* Received three innovation scholarships [[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)
 - *2024.11* Won the third prizes in the 2024  Guangdong University Student Computer Design Competition`(L1 competition) [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/2409013353_212960.pdf)
-- *2025.5* Won the Silver Medal, BirdCLEF 2025, Kaggle. (Ranked 47th out of 2026 teams in a machine learning competition focused on bird sound classification.)`
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -138,19 +150,9 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
     </div>
 </div>
 
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Competition. 2024</div>
-            <img src='pdf/C4/7481749276642_.pic.jpg' alt="Competition Icon" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <p>Won <b>three Second Prizes</b> in the China Collegiate Computing Contest 2020 – Network Technology Challenge (L1 competition).</p>
-<p><a href="https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA">[[News]]</a></p>
-    </div>
-</div>
 
+
+- *2025.5* Won the Silver Medal, BirdCLEF 2025, Kaggle. (Ranked 47th out of 2026 teams in a machine learning competition focused on bird sound classification.)`
 
 <div class='paper-box'>
     <div class='paper-box-image'>
