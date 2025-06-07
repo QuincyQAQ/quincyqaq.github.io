@@ -144,7 +144,21 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
     </div>
 </div>
 
+---
+
 - *2024.06* Received three innovation scholarships [[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Competition. 2024</div>
+            <img src='pdf/jiangxuejin/jiangxuejin.jpg' alt="Competition Icon" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p>Received three innovation scholarships.</p>
+<p><a href="https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA">[[News]]</a></p>
+    </div>
+</div>
 
 ---
 
@@ -165,7 +179,7 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 
 ---
 
-- *2025.5* Won the Silver Medal, BirdCLEF 2025, Kaggle. (Ranked 47th out of 2026 teams in a machine learning competition focused on bird sound classification.)`
+- *2025.5* Won the Silver Medal, BirdCLEF 2025, Kaggle. (Ranked 47th out of 2026 teams in a machine learning competition focused on bird sound classification.)
 
 <div class='paper-box'>
     <div class='paper-box-image'>
