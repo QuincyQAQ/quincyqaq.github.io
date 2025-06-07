@@ -77,9 +77,6 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
 
 ### Invention Patent
 ---
-- 郑勇涛, `李权俊`. 基于虹膜特征验证的一维混沌映射的医学图像保护方法. [[Website]](https://www.patentguru.com/cn/CN117812196B)
-- 陈思盈,曹亚成,范楷晢,黎炜轩,周灵志,`李权俊`. 一种适用于边缘计算设备的视频加密方法.[[Website]](https://www.patentguru.com/cn/CN118400472A)
-
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -89,10 +86,12 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
         </div>
     </div>
     <div class='paper-box-text'>
-        <p>Participated in the <b>National Training Program for College Students’ Innovation and Entrepreneurship</b>.</p>
+        <p> 郑勇涛, `李权俊`. 基于虹膜特征验证的一维混沌映射的医学图像保护方法. [[Website]](https://www.patentguru.com/cn/CN117812196B)</b>.</p>
         <p>[[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)</p>
     </div>
 </div>
+
+- 陈思盈,曹亚成,范楷晢,黎炜轩,周灵志,`李权俊`. 一种适用于边缘计算设备的视频加密方法.[[Website]](https://www.patentguru.com/cn/CN118400472A)
   
 ### Software Copyright
 ---
