@@ -47,13 +47,14 @@ I have published 4 academic papers (including co-authorships).
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Physica Scripta. 2024</div>
+            <div class="badge">IEEE Transactions on Consumer Electronics. 2024</div>
             <img src='images/po/f5-eps-converted-to.jpg' alt="sym" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
-        <p>Zhen Le, <b>Quanjun Li</b>, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. "Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map." <i>Physica Scripta</i>, 2024, 99(5): 055249. (JCR: Q2; IF: 2.6)</p>
-        <p>[<a href="https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4">Website</a>] [<a href="https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf">Download</a>] [<a href="../pdf/PhysicalScripta_AP.pdf">Report</a>]</p>
+        <p><b>Quanjun Li</b>, Quanjun Li , Qian Li , Bingo Wing-Kuen Ling , Senior Member, IEEE, Chi-Man Pun , Senior Member, IEEE,
+Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen. "DPPAD-IE: Dynamic Polyhedra Permutating and Arnold Diffusing Medical Image Encryption Using 2D Cross Gaussian Hyperchaotic Map." <i>Physica Scripta</i>, 2025, 99(5): 055249. (JCR: Q1; IF: 2.6)</p>
+        <p>[<a href="https://ieeexplore.ieee.org/document/10909287/authors#authors">Website</a>] [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10909287">Download</a>] [<a href="../pdf/PhysicalScripta_AP.pdf">Report</a>]</p>
     </div>
 </div>
 
