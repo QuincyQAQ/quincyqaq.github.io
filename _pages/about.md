@@ -48,7 +48,7 @@ I have published 4 academic papers (including co-authorships).
     <div class='paper-box-image'>
         <div>
             <div class="badge">IEEE Transactions on Consumer Electronics. 2024</div>
-            <img src='images/TCE/加密框架(11.24).jpg' alt="sym" width="100%">
+            <img src='pdf/TCE/加密框架(11.24).jpg' alt="sym" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
@@ -102,7 +102,7 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
     <div class='paper-box-image'>
         <div>
             <div class="badge">Program. 2024</div>
-            <img src='images/program_icon.png' alt="Program Icon" width="100%">
+            <img src='pdf/program_icon.png' alt="Program Icon" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
@@ -115,7 +115,7 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
     <div class='paper-box-image'>
         <div>
             <div class="badge">Competition. 2024</div>
-            <img src='images/C4/7481749276642_.pic.jpg' alt="Competition Icon" width="100%">
+            <img src='pdf/C4/7481749276642_.pic.jpg' alt="Competition Icon" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
