@@ -45,9 +45,8 @@ I have published 4 academic papers (including co-authorships)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physica Scripta. 2024</div><img src='images/po/f5-eps-converted-to.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <!-- <
-1. Harnessing the power of AI and IoT for real-time CO2 emission monitoring, Heliyon, 2024, e36612, ISSN 2405-8440,[https://doi.org/10.1016/j.heliyon.2024.e36612][SCI Q3]（李权俊、乐桢）
-2. Le, Z.; Li, Q.; Chen, H.; Cai, S.; Xiong, X.; Huang, L. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. Phys. Scr. 2024, 99, 055249. [https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4][SCI Q3]（乐桢、李权俊）
-3. YOLO-Remote: An Object Detection Algorithm for Remote Sensing Targets[https://ieeexplore.ieee.org/document/10716369/authors#authors][SCI Q3]（李权俊、钟广祺、储悦）></a>。--> 
+1. Le, Z.; Li, Q.; Chen, H.; Cai, S.; Xiong, X.; Huang, L. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. Phys. Scr. 2024, 99, 055249. [https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4][SCI Q3]（乐桢、李权俊）
+ 
 
 
 -	Zhen Le, `Quanjun Li`, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. *Physica Scripta*. 2024: 99 5. (JCR:Q2; IF:2.6)  
@@ -99,8 +98,6 @@ I have published 4 academic papers (including co-authorships)
 ---
 - 云集千翼无人机飞控软件[简称：云集千翼]V1.0
 - 新型一维混沌系统的遥感图像加密系统
-- 智能机器人AI监护系统v1.0
-- 基于RT-DETR的智能果树管理系统
 
 
 <span class='anchor' id='-ryjx'></span>
