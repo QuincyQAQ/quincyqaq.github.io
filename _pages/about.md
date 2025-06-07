@@ -63,8 +63,8 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Physica Scripta. 2024</div>
-            <img src='images/po/f5-eps-converted-to.jpg' alt="sym" width="100%">
+            <div class="badge">COMPUTER GRAPHICS INTERNATIONAL. 2025</div>
+            <img src='pdf/CGI/po.jpg' alt="sym" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
