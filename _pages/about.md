@@ -101,13 +101,78 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Physica Scripta. 2024</div>
-            <img src='images/po/f5-eps-converted-to.jpg' alt="sym" width="100%">
+            <div class="badge">Scholarship. 2022</div>
+            <img src='images/award_icon.png' alt="Scholarship Icon" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
-        <p>Zhen Le, <b>Quanjun Li</b>, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. "Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map." <i>Physica Scripta</i>, 2024, 99(5): 055249. (JCR: Q2; IF: 2.6)</p>
-        <p>[<a href="https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4">Website</a>] [<a href="https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf">Download</a>] [<a href="../pdf/PhysicalScripta_AP.pdf">Report</a>]</p>
+        <p>Received <b>Sun Yat-sen University Haijing Association-Seaview Scholarship</b>.</p>
+        <p>[[Website]](https://pan.baidu.com/s/1Fn1AGrEg1C4imEgYQaA9Uw?pwd=xyk7)</p>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Program. 2024</div>
+            <img src='images/program_icon.png' alt="Program Icon" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p>Participated in the <b>National Training Program for College Students’ Innovation and Entrepreneurship</b>.</p>
+        <p>[[News]](https://jyxq.gdut.edu.cn/info/1065/5296.htm)</p>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Competition. 2024</div>
+            <img src='images/competition_icon.png' alt="Competition Icon" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p>Won <b>three Second Prizes</b> in the China Collegiate Computing Contest 2020 – Network Technology Challenge (L1 competition).</p>
+        <p>[[News]](https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA)</p>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Scholarship. 2024</div>
+            <img src='images/award_icon.png' alt="Scholarship Icon" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p>Received <b>three Innovation Scholarships</b>.</p>
+        <p>[[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)</p>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Competition. 2024</div>
+            <img src='images/competition_icon.png' alt="Competition Icon" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p>Won <b>Third Prize</b> in the 2024 Guangdong University Student Computer Design Competition (L1 competition).</p>
+        <p>[[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/2409013353_212960.pdf)</p>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Kaggle. 2024</div>
+            <img src='images/kaggle_medal.png' alt="Kaggle Silver Medal" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text'>
+        <p><b>Silver Medal</b>, BirdCLEF 2025, Kaggle. (Ranked 47th out of 2026 teams in a machine learning competition focused on bird sound classification.)</p>
+        <p>[[Competition Page]](https://www.kaggle.com/c/birdclef-2025)</p>
     </div>
 </div>
 
