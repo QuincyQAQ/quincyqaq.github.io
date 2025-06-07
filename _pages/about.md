@@ -147,8 +147,8 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
         </div>
     </div>
     <div class='paper-box-text'>
-        <p>Won <b>three Second Prizes</b> in the China Collegiate Computing Contest 2024 – Network Technology Challenge (L1 competition).</p>
-        <p>[[News]](https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA)</p>
+        <p>Won <b>three Second Prizes</b> in the China Collegiate Computing Contest 2020 – Network Technology Challenge (L1 competition).</p>
+<p><a href="https://mp.weixin.qq.com/s/LEywekK-dHb-VRHbTJtjMA">[[News]]</a></p>
     </div>
 </div>
 
