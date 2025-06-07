@@ -135,7 +135,7 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
 </div>
 
 - *2024.06* Received three innovation scholarships [[News]](https://jyxq.gdut.edu.cn/info/1065/5423.htm)
-- *2024.11* Won the third prizes in the 2024  Guangdong University Student Computer Design Competition`(L1 competition) [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/2409013353_212960.pdf)
+- *2024.11* Won the third prizes in the 2024  Guangdong University Student Computer Design Competition`(L1 competition)` [[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/2409013353_212960.pdf)
 
 <div class='paper-box'>
     <div class='paper-box-image'>
