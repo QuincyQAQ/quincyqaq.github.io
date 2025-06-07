@@ -107,12 +107,19 @@ Guoheng Huang∗ , Xiaochen Yuan, Guo Zhong∗ , Sarra Ayouni , and Jianwu Chen.
     </div>
 </div>
 
-- 陈思盈,曹亚成,范楷晢,黎炜轩,周灵志,`李权俊`. 一种适用于边缘计算设备的视频加密方法.[[Website]](https://www.patentguru.com/cn/CN118400472A)
   
 ### Software Copyright
 ---
-- 云集千翼无人机飞控软件[简称：云集千翼]V1.0
-- 新型一维混沌系统的遥感图像加密系统
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Patent. 2024</div> <img src='pdf/zhuanli/ruanzhu.jpg' alt="Patent Image" width="100%"> </div>
+    </div>
+    <div class='paper-box-text'>
+        <p>夏涵,钟广祺,蒋一帆,李倩,黎炜轩,<b>李权俊</b>. <b>云集千翼无人机飞控软件[简称：云集千翼]V1.0</b>. </p>
+        <p>中国软著: 2024SR0841093</p>
+    </div>
+</div>
 
 
 <span class='anchor' id='-ryjx'></span>
