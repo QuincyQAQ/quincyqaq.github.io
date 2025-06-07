@@ -150,29 +150,16 @@ Guoheng Huang∗ , Xiaochen Yuan , Senior Member, IEEE, Guo Zhong∗ , Sarra Ayo
     </div>
 </div>
 
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Competition. 2024</div>
-            <img src='images/competition_icon.png' alt="Competition Icon" width="100%">
-        </div>
-    </div>
-    <div class='paper-box-text'>
-        <p>Won <b>Third Prize</b> in the 2024 Guangdong University Student Computer Design Competition (L1 competition).</p>
-        <p>[[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/2409013353_212960.pdf)</p>
-    </div>
-</div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
             <div class="badge">Kaggle. 2024</div>
-            <img src='images/kaggle_medal.png' alt="Kaggle Silver Medal" width="100%">
+            <img src='images/QuanjunLi - BirdCLEF+ 2025.png' alt="Kaggle Silver Medal" width="100%">
         </div>
     </div>
     <div class='paper-box-text'>
         <p><b>Silver Medal</b>, BirdCLEF 2025, Kaggle. (Ranked 47th out of 2026 teams in a machine learning competition focused on bird sound classification.)</p>
-        <p>[[Competition Page]](https://www.kaggle.com/c/birdclef-2025)</p>
     </div>
 </div>
 
