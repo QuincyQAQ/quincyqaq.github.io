@@ -44,11 +44,9 @@ I have published 4 academic papers (including co-authorships)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physica Scripta. 2024</div><img src='images/po/f5-eps-converted-to.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<!-- <
+
 1. Le, Z.; Li, Q.; Chen, H.; Cai, S.; Xiong, X.; Huang, L. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. Phys. Scr. 2024, 99, 055249. [https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4][SCI Q3]（乐桢、李权俊）
  
-
-
 -	Zhen Le, `Quanjun Li`, Huang Chen, Shuting Cai, Xiaoming Xiong, Linqing Huang. Medical image encryption system based on a simultaneous permutation and diffusion framework utilizing a new chaotic map. *Physica Scripta*. 2024: 99 5. (JCR:Q2; IF:2.6)  
 [[Website]](https://iopscience.iop.org/article/10.1088/1402-4896/ad3bf4)[[Download]](https://cdn.jsdelivr.net/gh/QuincyQAQ/image/Le_2024_Phys._Scr._99_055249 (1).pdf)[[Report]](../pdf/PhysicalScripta_AP.pdf)
 
@@ -56,14 +54,6 @@ I have published 4 academic papers (including co-authorships)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Heliyon. 2024</div><img src='images/po/2024.11.02.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	Jianwu Xu, Kun Liu, Qingye Huang, `Quanjun Li`, Linqing Huang. A Plaintext-Related and Ciphertext Feedback Mechanism for Medical Image Encryption Based on a New One-Dimensional Chaotic System. *Physica Scripta*, 2024, e36612. (JCR:Q2; IF:2.6)  
-[[Website]](https://beta.iopscience.iop.org/article/10.1088/1402-4896/ad8bfc) [[Download]](../pdf/Xu_2024_Phys._Scr._99_125220-2.pdf)[[Report]](../pdf/APlaintext_AP.pdf)
-
-</div>
-</div>
 
 # 📝Invention Patent & Software Copyright
 
